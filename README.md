@@ -48,32 +48,32 @@ The stacks used for the project backend include:
 | **`Google Map`** | Location rendring. |
 | **`PHP 8.0.2`** | Programming language. |
 | **`Laravel 9.2`** | General backend Framework |
-| *
+
 
 > ## HOSTED LINK 
-https://hostelallocation.com.ng/
+https://hostel.saadsaheed.com.ng/
 
 > ## CONTRIBUTION GUIDE
 
 1.  Fork the repository
 2.  Clone and then open it up on your prefered code editor
 ```bash 
-git clone https://github.com/Saad-Saheed/hostelmate.git
+git clone https://github.com/Saad-Saheed/solutionchallenge.git
 ```
 
 3.  Open terminal and set upsream branch:  
 ```bash 
-git remote add upstream https://github.com/Saad-Saheed/hostelmate.git
+git remote add upstream https://github.com/Saad-Saheed/solutionchallenge.git
 ```
 
-4.  Pull upstream to get the latest update from the original repo (https://github.com/Saad-Saheed/hostelmate.git)
+4.  Pull upstream to get the latest update from the original repo (https://github.com/Saad-Saheed/solutionchallenge.git)
 ```bash
 git pull upstream main
 ```
 
 5.  Create a new branch for the task your are doing eg: 
 ```bash
-git checkout -b support-module
+git checkout -b payment-module
 ```
 
 6.  After making changes, do
@@ -98,7 +98,7 @@ git push origin your-current-branch-name
 
 10. Create a pull request to the main branch
 
-> ## AUTHOR
+> ## CONTRIBUTORS
 
 Saad Saheed
 - Email - janbaoda@gmail.com
